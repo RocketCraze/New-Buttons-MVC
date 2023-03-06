@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+@model Graduate_Project___Leon.Models.ProfileViewModel
+
+<h1>Profile</h1>
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <th>Surname</th>
+        <th>Date of Birth</th>
+        <th>Age</th>
+        <th>Country</th>
+        <th>City</th>
+    </tr>
+    <tr>
+        <td>@Model.Name</td>
+        <td>@Model.Surname</td>
+        <td>@Model.Dob</td>
+        <td>@Model.Age</td>
+        <td>@Model.Country</td>
+        <td>@Model.City</td>
+    </tr>
+</table>  
