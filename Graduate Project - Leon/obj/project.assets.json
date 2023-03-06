@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leonlr\\OneDrive - PaySpace\\Desktop\\New Project\\Graduate Project - Leon\\Graduate Project - Leon.csproj",
+      "projectUniqueName": "C:\\Users\\leonlr\\OneDrive - PaySpace\\Documents\\Grad Dev\\New Buttons MVC\\New-Buttons-MVC\\Graduate Project - Leon\\Graduate Project - Leon.csproj",
       "projectName": "Graduate Project - Leon",
-      "projectPath": "C:\\Users\\leonlr\\OneDrive - PaySpace\\Desktop\\New Project\\Graduate Project - Leon\\Graduate Project - Leon.csproj",
+      "projectPath": "C:\\Users\\leonlr\\OneDrive - PaySpace\\Documents\\Grad Dev\\New Buttons MVC\\New-Buttons-MVC\\Graduate Project - Leon\\Graduate Project - Leon.csproj",
       "packagesPath": "C:\\Users\\leonlr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leonlr\\OneDrive - PaySpace\\Desktop\\New Project\\Graduate Project - Leon\\obj\\",
+      "outputPath": "C:\\Users\\leonlr\\OneDrive - PaySpace\\Documents\\Grad Dev\\New Buttons MVC\\New-Buttons-MVC\\Graduate Project - Leon\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leonlr\\AppData\\Roaming\\NuGet\\NuGet.Config",

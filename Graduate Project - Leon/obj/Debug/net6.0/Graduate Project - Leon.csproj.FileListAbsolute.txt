@@ -1,0 +1,31 @@
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\bin\Debug\net6.0\appsettings.json
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\bin\Debug\net6.0\Graduate Project - Leon.staticwebassets.runtime.json
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\bin\Debug\net6.0\Graduate Project - Leon.exe
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\bin\Debug\net6.0\Graduate Project - Leon.deps.json
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\bin\Debug\net6.0\Graduate Project - Leon.runtimeconfig.json
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\bin\Debug\net6.0\Graduate Project - Leon.dll
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\bin\Debug\net6.0\Graduate Project - Leon.pdb
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\obj\Debug\net6.0\Graduate Project - Leon.csproj.AssemblyReference.cache
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\obj\Debug\net6.0\Graduate Project - Leon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\obj\Debug\net6.0\Graduate Project - Leon.AssemblyInfoInputs.cache
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\obj\Debug\net6.0\Graduate Project - Leon.AssemblyInfo.cs
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\obj\Debug\net6.0\Graduate Project - Leon.csproj.CoreCompileInputs.cache
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\obj\Debug\net6.0\Graduate Project - Leon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\obj\Debug\net6.0\Graduate Project - Leon.RazorAssemblyInfo.cache
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\obj\Debug\net6.0\Graduate Project - Leon.RazorAssemblyInfo.cs
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\obj\Debug\net6.0\staticwebassets\msbuild.Graduate Project - Leon.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\obj\Debug\net6.0\staticwebassets\msbuild.build.Graduate Project - Leon.props
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Graduate Project - Leon.props
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Graduate Project - Leon.props
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\obj\Debug\net6.0\scopedcss\bundle\Graduate Project - Leon.styles.css
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\obj\Debug\net6.0\scopedcss\projectbundle\Graduate Project - Leon.bundle.scp.css
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\obj\Debug\net6.0\Graduate Project - Leon.dll
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\obj\Debug\net6.0\refint\Graduate Project - Leon.dll
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\obj\Debug\net6.0\Graduate Project - Leon.pdb
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\obj\Debug\net6.0\Graduate Project - Leon.genruntimeconfig.cache
+C:\Users\leonlr\OneDrive - PaySpace\Documents\Grad Dev\New Buttons MVC\New-Buttons-MVC\Graduate Project - Leon\obj\Debug\net6.0\ref\Graduate Project - Leon.dll
