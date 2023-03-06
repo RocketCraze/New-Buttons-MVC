@@ -26,6 +26,10 @@ app.MapControllerRoute(
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Buttons}/{action=Index}/{id?}");
+    pattern: "{controller=Button}/{action=Index}/{id?}");
+
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Profile}/{action=Index}/{id?}");
 
 app.Run();
