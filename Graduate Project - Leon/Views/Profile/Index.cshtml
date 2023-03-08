@@ -3,9 +3,11 @@
     ViewData["Title"] = "Index";
 }
 
-@model Graduate_Project___Leon.Models.ProfileViewModel
 
-<h1>Profile</h1>
+@model IEnumerable<Graduate_Project___Leon.Models.Profile>
+
+<h1>Profiles</h1>
+<a asp-controller="Profile" asp-action="CreateProfile"><button class="btn btn-primary pa-3" type="button">Add Profile</button></a>
 <table class="table">
     <tr>
         <th>Name</th>
@@ -14,13 +16,18 @@
         <th>Age</th>
         <th>Country</th>
         <th>City</th>
+        <th>Edit/Delete</th>
     </tr>
-    <tr>
-        <td>@Model.Name</td>
-        <td>@Model.Surname</td>
-        <td>@Model.Dob</td>
-        <td>@Model.Age</td>
-        <td>@Model.Country</td>
-        <td>@Model.City</td>
-    </tr>
+    @foreach (var profile in Model)
+    {
+        <tr>
+            <td>@profile.Name</td>
+            <td>@profile.Surname</td>
+            <td>@profile.DOB.Year/@profile.DOB.Month/@profile.DOB.Day</td>
+            <td>@profile.Age</td>
+            <td>@profile.Country</td>
+            <td>@profile.City</td>
+            <td><a asp-controller="Profile" asp-action="EditProfile" asp-route-id="@profile.ID">Edit / </a><a asp-controller="Profile" asp-action="DeleteProfile" asp-route-id="@profile.ID">Delete</a></td>
+        </tr>
+    }
 </table>  
