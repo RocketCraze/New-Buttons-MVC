@@ -1,4 +1,4 @@
-namespace Graduate_Project___Leon.Models
+namespace Graduate_Project___Leon.ModelViews
 {
     public class ErrorViewModel
     {

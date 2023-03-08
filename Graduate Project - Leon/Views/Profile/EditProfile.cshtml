@@ -1,0 +1,31 @@
+﻿@model Graduate_Project___Leon.Models.Profile
+
+<h1>Edit Profile</h1>
+
+<form asp-controller="Profile" asp-action="EditProfile">
+    <div class="form-group">
+        <label for="formGroup" asp-for="Name">Name</label>
+        <input type="text" class="form-control" id="formGroup" asp-for="Name" placeholder="@Model.Name">
+    </div>
+    <div class="form-group">
+        <label for="formGroup" asp-for="Surname">Surname</label>
+        <input type="text" class="form-control" id="formGroup" asp-for="Surname" placeholder="@Model.Surname">
+    </div>
+    <div class="form-group">
+        <label for="formGroup" asp-for="DOB">Date of Birth</label>
+        <input type="date" class="form-control" id="formGroup" asp-for="DOB" placeholder="@Model.DOB">
+    </div>
+    <div class="form-group">
+        <label for="formGroup" asp-for="Age">Age</label>
+        <input type="number" class="form-control" id="formGroup" asp-for="Age" placeholder="@Model.Age">
+    </div>
+    <div class="form-group">
+        <label for="formGroup" asp-for="Country">Country</label>
+        <input type="text" class="form-control" id="formGroup" asp-for="Country" placeholder="@Model.Country">
+    </div>
+    <div class="form-group">
+        <label for="formGroup" asp-for="City">City</label>
+        <input type="text" class="form-control" id="formGroup" asp-for="City" placeholder="@Model.City">
+    </div>
+    <a asp-controller="Profile" asp-action="EditProfile"><button type="submit" class="btn btn-primary m-4" type="button">Apply Changes</button></a>
+</form>
